@@ -26,7 +26,7 @@ Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>
 
 ### 💬 Ask Me About
 - 📱 Android Development  
-- 🎨 UI/UX Design in Jetpack Compose  
+- 🎨 UI/UX Design  
 
 ---
 
