@@ -1,21 +1,41 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Atha Nidianto</h1>
 <p align="center">
-  Junior Android Developer | Simplicity | Kotlin & Jetpack Compose Learner
+  <strong>Junior Android Developer</strong> | Simplicity First | Kotlin & Jetpack Compose Learner
 </p>
 
-Hi namaku Muhammad Atha Nidianto, seorang pengembang Android yang berfokus pada pembuatan aplikasi yang aman, simpel, dan ringan. Saat ini saya sedang mendalami Kotlin, Jetpack Compose, dan Android Studio.
+---
 
- 🔭 Keahlian Utama
-      - Bahasa : Kotlin
-      - Framework : Android SDK, Jetpack Compose
-      - Tools : Android Studio
- 🎓 Pendidikan
-      - Smk Nu Ma'arif Kudus, Jurusan Teknik Komputer Jaringan
-      
- 💬 Ask me about 
-      - Android
-      - UI/UX
+### 👨‍💻 Tentang Saya
+Hi! Namaku <strong>Muhammad Atha Nidianto</strong>, seorang pengembang Android yang berfokus pada pembuatan aplikasi yang <strong>aman</strong>, <strong>sederhana</strong>, dan <strong>ringan</strong>.  
+Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>, dan <code>Android Studio</code>.
 
-  ### 📫 Let's Connect!
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atha.nidianto@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atha_nidian)
+---
+
+### 🔧 Keahlian Utama
+- 💻 <strong>Bahasa:</strong> Kotlin  
+- ⚙️ <strong>Framework:</strong> Android SDK, Jetpack Compose  
+- 🛠️ <strong>Tools:</strong> Android Studio, Git, Gradle, Postman  
+
+---
+
+### 🎓 Pendidikan
+- 📍 SMK NU Ma'arif Kudus  
+- 🎓 Jurusan Teknik Komputer dan Jaringan (TKJ)
+
+---
+
+### 💬 Ask Me About
+- 📱 Android Development  
+- 🎨 UI/UX Design in Jetpack Compose  
+
+---
+
+### 📫 Let's Connect!
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
