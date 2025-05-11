@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Atha Nidianto</h1>
+<p align="center">
+  Junior Android Developer | Simplicity | Kotlin & Jetpack Compose Learner
+</p>
 
 Hi namaku Muhammad Atha Nidianto, seorang pengembang Android yang berfokus pada pembuatan aplikasi yang aman, simpel, dan ringan. Saat ini saya sedang mendalami Kotlin, Jetpack Compose, dan Android Studio.
 
