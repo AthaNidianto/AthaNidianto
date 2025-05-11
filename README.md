@@ -12,7 +12,10 @@ Hi namaku Muhammad Atha Nidianto, seorang pengembang Android yang berfokus pada 
  🎓 Pendidikan
       - Smk Nu Ma'arif Kudus, Jurusan Teknik Komputer Jaringan
       
- 💬 Ask me about Android, UI/UX
-- ⚡ Fun fact: ...
-  -
--->
+ 💬 Ask me about 
+      - Android
+      - UI/UX
+
+  ### 📫 Let's Connect!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atha.nidianto@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atha_nidian)
