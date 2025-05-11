@@ -14,7 +14,7 @@ Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>
 ### 🔧 Keahlian Utama
 - 💻 <strong>Bahasa:</strong> Kotlin  
 - ⚙️ <strong>Framework:</strong> Android SDK, Jetpack Compose  
-- 🛠️ <strong>Tools:</strong> Android Studio, Git, Gradle, Postman  
+- 🛠️ <strong>Tools:</strong> Android Studio, Gradle 
 
 ---
 
