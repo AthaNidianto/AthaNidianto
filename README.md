@@ -35,7 +35,7 @@ Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>
   <a href="mailto:atha.nidianto2019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://instagram.com/atha_nidian" target="_blank">
+  <a href="https://instagram.com/athndian_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
