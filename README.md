@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Atha Nidianto</h1>
 <p align="center">
-  <strong>Junior Android Developer</strong> | Simplicity First | Kotlin & Jetpack Compose Learner
+  <strong>Junior Android Developer</strong> | Simplicity First | Kotlin, Jetpack Compose, Dart & Flutter Learner
 </p>
 
 ---
-
 ### 👨‍💻 Tentang Saya
 Hi! Namaku <strong>Muhammad Atha Nidianto</strong>, seorang pengembang Android yang berfokus pada pembuatan aplikasi yang <strong>aman</strong>, <strong>sederhana</strong>, dan <strong>ringan</strong>.  
 Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>, dan <code>Android Studio</code>.
@@ -12,9 +11,9 @@ Saat ini saya sedang mendalami <code>Kotlin</code>, <code>Jetpack Compose</code>
 ---
 
 ### 🔧 Keahlian Utama
-- 💻 <strong>Bahasa:</strong> Kotlin  
-- ⚙️ <strong>Framework:</strong> Android SDK, Jetpack Compose  
-- 🛠️ <strong>Tools:</strong> Android Studio, Gradle, Figma
+- 💻 <strong>Bahasa:</strong> Kotlin & Dart  
+- ⚙️ <strong>Framework:</strong> Android SDK, Jetpack Compose, Flutter 
+- 🛠️ <strong>Tools:</strong> Android Studio, Gradle, Figma, Visual Studio Code
 
 ---
 
