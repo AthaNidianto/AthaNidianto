@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Atha Nidianto</h1>
 <p align="center">
-  <strong>Junior Android Developer</strong> | Simplicity First | Kotlin, Jetpack Compose, Dart & Flutter Learner
+  <strong>Junior Mobile Developer</strong> | Simplicity First | Kotlin, Jetpack Compose, Dart & Flutter Learner
 </p>
 
 ---
