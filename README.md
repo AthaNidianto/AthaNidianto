@@ -24,7 +24,7 @@ Hi! Namaku <strong>Muhammad Atha Nidianto</strong>, seorang pengembang Mobile ap
 ---
 
 ### 💬 Ask Me About
-- 📱 Android Development  
+- 📱 Mobile Development  
 - 🎨 UI/UX Design  
 
 ---
